@@ -1,6 +1,8 @@
 # OGVI-Wenxinma
 Tips for orgnaizing research
-
--Wenxin Ma
--retina
--RNA Seq
+# Name
+- Wenxin Ma
+# Field of Study
+- retina
+# Experiments
+- RNA Seq 
